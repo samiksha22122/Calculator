@@ -73,3 +73,6 @@ calculator_project/
 │
 ├── main.py
 ├── addition.py
+├── .gitignore
+├── requirements.txt
+
