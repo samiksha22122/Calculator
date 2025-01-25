@@ -67,3 +67,9 @@ Contributions are welcome! Feel free to fork this repository, make changes, and 
 
 ## **License**
 This project is licensed under the [MIT License](LICENSE).
+
+## **Folder Structure**
+calculator_project/
+│
+├── main.py
+├── addition.py
