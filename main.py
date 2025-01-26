@@ -57,6 +57,7 @@ def main():
             print("Invalid input! Please enter numeric values.")
     else:
         print("Invalid choice!")
+        print('bye')
 
 
 if __name__ == "__main__":
